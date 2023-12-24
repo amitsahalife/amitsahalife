@@ -6,8 +6,9 @@
 
 
 
-<p align="left"> <a href="https://www.instagram.com/amitsahalife/?hl=en" target="blank">
- <img src ="https://img.shields.io/badge/Instagram @amitsahalife-E4405F/?style=for-the-badge&logo=instagram&logoColor=white" alt="amitsahalife" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/amitsahalife/" target="blank">
+ <img src ="https://img.shields.io/badge/Follow Me  @amitsahalife-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amitsahalife" /></a> </p>
+
 
 
 
