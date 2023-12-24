@@ -30,7 +30,7 @@
 
 # MyNote
 An Android app simplifes note taking and organised with intuitive interface, allow user effortlessly perform CRUD operations.
-###Technologies : MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML, Material Design Components
+## Technologies : MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML, Material Design Components
  <p align="center">
   <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/e3544aee-6b85-4740-86aa-374d5673a336" alt="Screenshot" width="700" title = "MyNote"/>
   
@@ -38,10 +38,11 @@ An Android app simplifes note taking and organised with intuitive interface, all
 An Android based application , simplifies conversion between different units, works and offline, and help users to done task easily
 
  <p align="center">
-  <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/c8950850-2594-4232-90af-17e9bd1f9a07" alt="UnitConverterGif" width="190" title = "unitConverter"/>
+  <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/87c853d6-be70-4795-9c25-f00e210ff151" alt="UnitConverterGif" width="190" title = "unitConverter"/>
    </p>
  
 
-  
+
+
 
 
