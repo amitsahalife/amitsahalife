@@ -4,9 +4,12 @@
 <h1 align="left">Hi 👋, I'm Amit Saha</h1>
 <h3 align="center">Enthusiastic to work in the field of Mobile Application Development, i always follow best practices for android application and i am always ready to learn new technologies, method and principle as per the requirement of project.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsahalife&label=Profile%20views&color=05ff2f&style=flat-square" alt="amitsahalife" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amitsahalife" target="blank"><img src="https://img.shields.io/twitter/follow/amitsahalife?logo=twitter&style=for-the-badge" alt="amitsahalife" /></a> </p>
+
+<p align="left"> <a href="https://www.instagram.com/amitsahalife/?hl=en" target="blank">
+ <img src ="https://img.shields.io/badge/Instagram @amitsahalife-E4405F/?style=for-the-badge&logo=instagram&logoColor=white" alt="amitsahalife" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Google Assistant Clone**
 
@@ -14,7 +17,7 @@
 
 - 💬 Ask me about **Android, JAVA,Kotlin**
 
-- 📫 How to reach me **amitsahalifeofficial@gmail.com**
+-  How to reach me **amitsahaofficialll@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +33,8 @@
 
 # MyNote
 An Android app simplifes note taking and organised with intuitive interface, allow user effortlessly perform CRUD operations.
-## Technologies : MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML, Material Design Components
+## Technologies : 
+MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML, Material Design Components
  <p align="center">
   <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/e3544aee-6b85-4740-86aa-374d5673a336" alt="Screenshot" width="700" title = "MyNote"/>
   
