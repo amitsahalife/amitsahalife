@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0_uX9HHPtyzstyuPcW8g-A.png)](https://amitsahalife.io)
-<h1 align="center">Hi 👋, I'm Amit Saha</h1>
+<h1 align="left">Hi 👋, I'm Amit Saha</h1>
 <h3 align="center">Enthusiastic to work in the field of Mobile Application Development, i always follow best practices for android application and i am always ready to learn new technologies, method and principle as per the requirement of project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsahalife&label=Profile%20views&color=05ff2f&style=flat-square" alt="amitsahalife" /> </p>
@@ -28,7 +28,9 @@
 
 # Note App
  It's simple note app which use java and kotlin , MMVM architecture , here user can perform CRUD operations.
- 
- <p align="right"> <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/f07620e3-8fcb-4a93-aae1-fb0eb5c6b903" alt="Screenshot" width="300"/>
- <p align="left"> <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/adc2e722-8e9d-4416-98ae-2b218d88d4b0" alt="Screenshot" width = "300"/>
+### Technologies : MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML
+ <p align="center">
+  <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/e3544aee-6b85-4740-86aa-374d5673a336" alt="Screenshot" width="700" title = "MyNote"/>
+
+
 
