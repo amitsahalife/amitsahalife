@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Android, JAVA,Kotlin**
 
--  How to reach me **amitsahaofficialll@gmail.com**
+- 📧 How to reach me **amitsahaofficialll@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
