@@ -1,4 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0_uX9HHPtyzstyuPcW8g-A.png)](https://amitsahalife.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHPE1ks-CzTuA/profile-displaybackgroundimage-shrink_350_1400/0/1681717238219?e=1709164800&v=beta&t=vOQw5T3m-5F7kI5fihL1P3wYJTkKiCDVZIGNfDCGSLA)](https://amitsahalife.io)
+
+
 <h1 align="left">Hi 👋, I'm Amit Saha</h1>
 <h3 align="center">Enthusiastic to work in the field of Mobile Application Development, i always follow best practices for android application and i am always ready to learn new technologies, method and principle as per the requirement of project.</h3>
 
@@ -38,7 +40,7 @@ An Android based application , simplifies conversion between different units, wo
  <p align="center">
   <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/c8950850-2594-4232-90af-17e9bd1f9a07" alt="UnitConverterGif" width="190" title = "unitConverter"/>
    </p>
-
+ 
 
   
 
