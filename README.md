@@ -46,6 +46,15 @@ An Android based application , simplifies conversion between different units, wo
   <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/87c853d6-be70-4795-9c25-f00e210ff151" alt="UnitConverterGif" width="190" title = "unitConverter"/>
    </p>
  
+#ArcadeX
+Android tic tac toe game . 3X3 and 5X5
+ <p align="center">
+  <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/8fa27800-7934-4ff0-9e8e-ffbe0c2b9f67" alt="ArcadeXGif" width="190" title = "ArcadeX"/>
+   </p>
+
+
+
+
 
 
 
