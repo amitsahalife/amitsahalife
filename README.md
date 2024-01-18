@@ -59,7 +59,9 @@ An Android based application , simplifies conversion between different units, wo
 
 #CashEx
  An android application, which can convert currencies in real time between two country.
- 
+ <p align="center">
+  <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/32add9fc-80d3-41d3-ad86-fb8a0b4cdf86" alt="CashExGif" width="190" title = "CashExchanger"/>
+   </p>
  
 # ArcadeX
 Android tic tac toe game . 3X3 and 5X5
