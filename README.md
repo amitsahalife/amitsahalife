@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Amit Saha</h1>
-<h3 align="center">Enthusiastic to work in the field of Mobile Application Development, i always follow best practices for android application and i am always ready to learn new technologies, method and principle as per the requirement of project.</h3>
+<h3 align="left">Enthusiastic to work in the field of Mobile Application Development, i always follow best practices for android application and i am always ready to learn new technologies, method and principle as per the requirement of project.</h3>
 
 
 
@@ -34,8 +34,8 @@
 
 ## MyNote
 An Android app simplifes note taking and organised with intuitive interface, allow user effortlessly perform CRUD operations.
-### Technologies : 
-**MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML, Material Design Components**
+
+**Technologies :  MVVM,KOTLIN,ROOM DB, ANDROID, JAVA, XML, Material Design Components**
  <p align="center">
   <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/e3544aee-6b85-4740-86aa-374d5673a336" alt="Screenshot" width="700" title = "MyNote"/>
 </p>
