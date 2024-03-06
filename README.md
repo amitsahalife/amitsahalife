@@ -42,6 +42,9 @@ An Android app simplifes note taking and organised with intuitive interface, all
 
 ## TaskBuddy
 An Android application which is user friendly simply task management application, to stay organised and top of their todo list
+<p align="center">
+<img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/b27095e7-0ccd-429d-aef3-e3c36609c7ff" alt="TaskBuddyPhoto" width="700" title = "ArcadeX"/>
+   </p>
  <p align="center">
   <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/d47d1c0a-f687-495d-bcf9-0822c829308b" alt="TaskBuddyGif" width="190" title = "TaskBuddy"/>
 </p>
@@ -66,15 +69,16 @@ An Android based application , simplifies conversion between different units, wo
 ## ArcadeX
 Android tic tac toe game . 3X3 and 5X5
 <p align="center">
+<img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/ee60f1ba-187b-4141-85d8-1c6c3679c959" alt="arcadeXPIC" width="700" title = "ArcadeX"/>
+   </p>
+
+<p align="center">
 <img src="https://github.com/amitsahalife/amitsahalife/assets/79406760/0332a7bb-7824-4f96-9712-9e4d955267f2" alt="arcadeXGif" width="190" title = "ArcadeX"/>
    </p>
 
 
 
-
-
-
-
+![Picsart_24-03-06_20-12-50-595]()
 
 
 
